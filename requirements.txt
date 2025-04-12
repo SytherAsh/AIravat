@@ -1,0 +1,43 @@
+# Core dependencies
+streamlit==1.36.2
+wikipedia-api==0.7.1
+groq==0.9.3
+requests==2.32.1
+Pillow==10.3.0
+
+# Type hints and utilities
+typing-extensions==4.11.0
+
+# Date and time handling
+python-dateutil==2.9.0
+
+# Logging
+colorlog==6.8.2
+
+# Regular expressions
+regex==2024.4.1
+
+# Optional: PDF export functionality
+reportlab==4.1.0
+fpdf2==2.8.1
+
+# Development dependencies
+pytest==8.1.1
+black==24.3.0
+isort==5.13.2
+flake8==7.0.0
+
+# Image processing and visualization
+matplotlib==3.9.1
+seaborn==0.13.2
+
+# API handling and authentication
+pyjwt==2.8.0
+python-dotenv==1.1.0
+
+# Performance optimizations
+numpy==1.26.4
+pandas==2.2.1
+
+# Markdown support for better documentation
+markdown==3.6
